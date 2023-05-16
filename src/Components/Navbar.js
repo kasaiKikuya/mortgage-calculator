@@ -6,11 +6,9 @@ import { Container } from "@mui/system";
 const Navbar = () => {
   return (
     <AppBar position="static">
-      <Container maxWidth='xl'>
+      <Container maxWidth="xl">
         <Toolbar>
-          <Typography variant="h5">
-            Bank of React
-          </Typography>
+          <Typography variant="h5">Dut Bank</Typography>
         </Toolbar>
       </Container>
     </AppBar>
